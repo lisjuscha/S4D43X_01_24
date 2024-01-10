@@ -1,0 +1,5 @@
+@EndUserText.label: 'Flight'
+define service ZUI_18_Flight {
+  expose ZC_18_Flight as Flight;
+  expose ZC_18_Booking as Booking;
+}
